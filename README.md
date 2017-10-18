@@ -14,8 +14,9 @@ I published Floodgate to the [npm registry](https://npmjs.com/package/react-floo
 
 The [Floodgate package.json](https://github.com/geoffdavis92/react-floodgate/blob/master/package.json) lists only `/dist` as the only non-mandatory file(s)/directory to be published on npm, and this is confirmed when installing into a project.
 
-```
+```github
 # react-floodgate node_module structure
+
 dist
 LICENSE
 package.json
