@@ -18,6 +18,8 @@ The [Floodgate package.json](https://github.com/geoffdavis92/react-floodgate/blo
 # react-floodgate node_module structure
 
 dist
+  react-floodgate.esm.js
+  react-floodgate.js
 LICENSE
 package.json
 README.md
